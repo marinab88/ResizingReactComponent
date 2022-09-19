@@ -1,0 +1,13 @@
+button {
+  background-color: rgb(38, 123, 38);
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  font-size: 20px;
+  margin-right: 5px;
+  margin-top: 7px;
+}
+
+input {
+  margin-bottom: 7px;
+}
